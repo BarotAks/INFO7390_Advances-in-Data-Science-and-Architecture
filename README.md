@@ -1,2 +1,3 @@
 # INFO7390_Advances-in-Data-Science-and-Architecture
-Assignments
+
+This repository contains Assignments for INFO7390 Advances in Data Science and Architecture course.
